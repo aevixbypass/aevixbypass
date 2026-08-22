@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./aevix.gif" width="700">
+<img src="https://media.discordapp.net/attachments/1235744013236043888/1244840803541586030/355b6613c89b4cf222bebb1febb7fa6f.gif?ex=6a8b0497&is=6a89b317&hm=284ad3b037b7b6ae24df0c0cade88f24ce465d0911aeae8510d0de8e10b4009b&=" width="700">
 
 <br>
 <br>
