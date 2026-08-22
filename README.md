@@ -2,14 +2,16 @@
 
 # AEVIX
 
-### Developer • C++ • Lua • Web
-
-`C++` • `Lua` • `HTML` • `CSS` • `JavaScript`
+### C++ • Lua • Web
 
 <br>
 
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
-[![Team Mayhem](https://img.shields.io/badge/TEAM%20MAYHEM-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/krpris)
+<img src="./aevix.gif" width="700">
+
+<br>
+<br>
+
+`C++`   `Lua`   `JavaScript`   `HTML`   `CSS`
 
 </div>
 
@@ -19,15 +21,21 @@
 
 I'm **Aevix**.
 
-I work with **C++**, **Lua** and web technologies, building private projects and experimenting with loaders, systems and custom solutions.
+I work with **C++**, **Lua** and web technologies, creating private projects, loaders and custom systems.
 
-Most of my work is **private**, so the repositories you see here don't necessarily represent everything I'm working on.
+Most of my main projects are private.
 
 ```text
-C++        ████████████████████
-Lua        ███████████████░░░░░
-JavaScript █████████████░░░░░░░
-HTML/CSS   █████████████████░░░
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   A E V I X                                  ║
+║                                              ║
+║   C++          Systems / Development         ║
+║   Lua          Scripting / Development       ║
+║   JavaScript   Web Development               ║
+║   HTML / CSS   Web Interface                 ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
@@ -36,42 +44,37 @@ HTML/CSS   █████████████████░░░
 
 <div align="center">
 
-### Languages
+**C++**
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+`C++` `Systems` `Development`
 
-### Web
+**Lua**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+`Lua` `Scripting`
+
+**Web**
+
+`JavaScript` `HTML` `CSS`
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 🔒 Private Projects
 
-> Most of my projects are private.
+Most of my work isn't publicly available on GitHub.
 
-I don't publicly expose the source code of my main projects, but if you want to **know Aevix and what I'm working on**, you can join our Discord.
+If you want to **know Aevix**, see what we're working on and get access to our projects, join our Discord.
 
 <div align="center">
 
-### 🔒 Private Projects
+### Want to know more?
 
-**Loaders • C++ Systems • Lua • Web**
-
-<br>
-
-**Interested in getting access?**
-
-Join the Discord and learn more about the projects and releases.
+**Join the Discord and discover the projects.**
 
 <br>
 
-[![Join Discord](https://img.shields.io/badge/JOIN%20OUR%20DISCORD-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
+`PRIVATE PROJECTS` • `CUSTOM SYSTEMS` • `LOADERS` • `LUA` • `C++`
 
 </div>
 
@@ -83,11 +86,31 @@ Join the Discord and learn more about the projects and releases.
 
 ### KRPRIS
 
-[![Visit KRPRIS](https://img.shields.io/badge/VISIT%20KRPRIS-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/krpris)
+Team Mayhem project.
 
 ### KAIO
 
-[![Visit KAIO](https://img.shields.io/badge/VISIT%20KAIO-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/kaio)
+Team Mayhem project.
+
+<br>
+
+**Explore Team Mayhem**
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+### Discord
+
+The main place to find me and learn more about the projects.
+
+<br>
+
+`Discord • Team Mayhem`
 
 </div>
 
