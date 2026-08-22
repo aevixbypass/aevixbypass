@@ -2,11 +2,15 @@
 
 # AEVIX
 
-### Developer • C++ • Lua • Web
+### C++ • Lua • Web
 
-`C++` • `Lua` • `HTML` • `CSS` • `JavaScript`
+`C++` · `Lua` · `HTML` · `CSS` · `JavaScript`
 
 <br>
+
+<img src="./aevix.gif" width="700">
+
+<br><br>
 
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
 [![Team Mayhem](https://img.shields.io/badge/TEAM%20MAYHEM-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/krpris)
@@ -15,20 +19,14 @@
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
 I'm **Aevix**.
 
-I work with **C++**, **Lua** and web technologies, building private projects and experimenting with loaders, systems and custom solutions.
+I work with **C++**, **Lua** and web technologies, building private projects, loaders, systems and custom solutions.
 
-Most of my work is **private**, so the repositories you see here don't necessarily represent everything I'm working on.
+Most of my main work is **private**, so not everything I create is available publicly on GitHub.
 
-<br>
-
-<img src="https://media.discordapp.net/attachments/1235744013236043888/1244840803541586030/355b6613c89b4cf222bebb1febb7fa6f.gif?ex=6a8b0497&is=6a89b317&hm=284ad3b037b7b6ae24df0c0cade88f24ce465d0911aeae8510d0de8e10b4009b&=" width="700">
-
-<br>
-<br>
 ---
 
 ## 🛠️ Tech Stack
@@ -50,27 +48,21 @@ Most of my work is **private**, so the repositories you see here don't necessari
 
 ---
 
-## 🚀 Projects
-
-> Most of my projects are private.
-
-I don't publicly expose the source code of my main projects, but if you want to **know Aevix and what I'm working on**, you can join our Discord.
+## 🔒 Private Projects
 
 <div align="center">
 
-### 🔒 Private Projects
+### C++ • Loaders • Lua • Web
 
-**Loaders • C++ Systems • Lua • Web**
+Most of my main projects are private.
 
-<br>
-
-**Interested in getting access?**
-
-Join the Discord and learn more about the projects and releases.
+If you want to **know Aevix**, discover what we're working on and get access to our projects, join our Discord.
 
 <br>
 
-[![Join Discord](https://img.shields.io/badge/JOIN%20OUR%20DISCORD-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
+**Interested?**
+
+[![Join Discord](https://img.shields.io/badge/JOIN%20DISCORD-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
 
 </div>
 
@@ -82,11 +74,13 @@ Join the Discord and learn more about the projects and releases.
 
 ### KRPRIS
 
-[![Visit KRPRIS](https://img.shields.io/badge/VISIT%20KRPRIS-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/krpris)
+[![KRPRIS](https://img.shields.io/badge/VISIT%20KRPRIS-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/krpris)
+
+   
 
 ### KAIO
 
-[![Visit KAIO](https://img.shields.io/badge/VISIT%20KAIO-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/kaio)
+[![KAIO](https://img.shields.io/badge/VISIT%20KAIO-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/kaio)
 
 </div>
 
@@ -96,9 +90,13 @@ Join the Discord and learn more about the projects and releases.
 
 ### AEVIX
 
-`C++` • `Lua` • `JavaScript` • `HTML` • `CSS`
+`C++` · `Lua` · `JavaScript` · `HTML` · `CSS`
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=aevixbypass&style=flat-square&color=5865F2&label=PROFILE+VIEWS">
+
+<br><br>
 
 **Private work. Public presence.**
 
