@@ -2,16 +2,14 @@
 
 # AEVIX
 
-### C++ • Lua • Web
+### Developer • C++ • Lua • Web
+
+`C++` • `Lua` • `HTML` • `CSS` • `JavaScript`
 
 <br>
 
-<img src="https://media.discordapp.net/attachments/1235744013236043888/1244840803541586030/355b6613c89b4cf222bebb1febb7fa6f.gif?ex=6a8b0497&is=6a89b317&hm=284ad3b037b7b6ae24df0c0cade88f24ce465d0911aeae8510d0de8e10b4009b&=" width="700">
-
-<br>
-<br>
-
-`C++`   `Lua`   `JavaScript`   `HTML`   `CSS`
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
+[![Team Mayhem](https://img.shields.io/badge/TEAM%20MAYHEM-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/krpris)
 
 </div>
 
@@ -21,60 +19,58 @@
 
 I'm **Aevix**.
 
-I work with **C++**, **Lua** and web technologies, creating private projects, loaders and custom systems.
+I work with **C++**, **Lua** and web technologies, building private projects and experimenting with loaders, systems and custom solutions.
 
-Most of my main projects are private.
+Most of my work is **private**, so the repositories you see here don't necessarily represent everything I'm working on.
 
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   A E V I X                                  ║
-║                                              ║
-║   C++          Systems / Development         ║
-║   Lua          Scripting / Development       ║
-║   JavaScript   Web Development               ║
-║   HTML / CSS   Web Interface                 ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
+<br>
 
+<img src="https://media.discordapp.net/attachments/1235744013236043888/1244840803541586030/355b6613c89b4cf222bebb1febb7fa6f.gif?ex=6a8b0497&is=6a89b317&hm=284ad3b037b7b6ae24df0c0cade88f24ce465d0911aeae8510d0de8e10b4009b&=" width="700">
+
+<br>
+<br>
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**C++**
+### Languages
 
-`C++` `Systems` `Development`
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-**Lua**
+### Web
 
-`Lua` `Scripting`
-
-**Web**
-
-`JavaScript` `HTML` `CSS`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 </div>
 
 ---
 
-## 🔒 Private Projects
+## 🚀 Projects
 
-Most of my work isn't publicly available on GitHub.
+> Most of my projects are private.
 
-If you want to **know Aevix**, see what we're working on and get access to our projects, join our Discord.
+I don't publicly expose the source code of my main projects, but if you want to **know Aevix and what I'm working on**, you can join our Discord.
 
 <div align="center">
 
-### Want to know more?
+### 🔒 Private Projects
 
-**Join the Discord and discover the projects.**
+**Loaders • C++ Systems • Lua • Web**
 
 <br>
 
-`PRIVATE PROJECTS` • `CUSTOM SYSTEMS` • `LOADERS` • `LUA` • `C++`
+**Interested in getting access?**
+
+Join the Discord and learn more about the projects and releases.
+
+<br>
+
+[![Join Discord](https://img.shields.io/badge/JOIN%20OUR%20DISCORD-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
 
 </div>
 
@@ -86,31 +82,11 @@ If you want to **know Aevix**, see what we're working on and get access to our p
 
 ### KRPRIS
 
-Team Mayhem project.
+[![Visit KRPRIS](https://img.shields.io/badge/VISIT%20KRPRIS-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/krpris)
 
 ### KAIO
 
-Team Mayhem project.
-
-<br>
-
-**Explore Team Mayhem**
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-### Discord
-
-The main place to find me and learn more about the projects.
-
-<br>
-
-`Discord • Team Mayhem`
+[![Visit KAIO](https://img.shields.io/badge/VISIT%20KAIO-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/kaio)
 
 </div>
 
