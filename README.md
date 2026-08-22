@@ -12,7 +12,7 @@
 
 <br><br>
 
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/xaeenPggNt)
 [![Team Mayhem](https://img.shields.io/badge/TEAM%20MAYHEM-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://teammayhem.vercel.app/krpris)
 
 </div>
