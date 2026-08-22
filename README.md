@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 About Me
+## ➕ About Me
 
 I'm **Aevix**.
 
@@ -29,7 +29,7 @@ Most of my main work is **private**, so not everything I create is available pub
 
 ---
 
-## 🛠️ Tech Stack
+## ➕ Tech Stack
 
 <div align="center">
 
@@ -48,7 +48,7 @@ Most of my main work is **private**, so not everything I create is available pub
 
 ---
 
-## 🔒 Private Projects
+## ➕ Private Projects
 
 <div align="center">
 
